@@ -1,0 +1,11 @@
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\bin\Debug\Laboratorioo 3.exe.config
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\bin\Debug\Laboratorioo 3.exe
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\bin\Debug\Laboratorioo 3.pdb
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.csproj.AssemblyReference.cache
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo_3.Form1.resources
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo_3.Properties.Resources.resources
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.csproj.GenerateResource.cache
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.csproj.CoreCompileInputs.cache
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.exe
+C:\Users\Liceth\source\repos\Laboratorioo 3\Laboratorioo 3\obj\Debug\Laboratorioo 3.pdb
